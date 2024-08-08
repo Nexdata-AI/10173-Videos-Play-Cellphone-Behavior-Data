@@ -3,7 +3,7 @@
 ## Description
 10,173 Videos - Play Cellphone Behavior Data. The data includes indoor scenes and outdoor scenes. The data covers multiple scenes, multiple shooting angles and multiple resolution. The data can be used for tasks such as cellphone playing behavior detection, cellphone playing behavior recognition and other tasks.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1255?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1255?source=Github
 
 
 ## Data size
